@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Neural Network from Scratch/*
+!/Neural Network from Scratch/task/
+/Neural Network from Scratch/task/*
+!/Neural Network from Scratch/task/student.py
+!/Neural Network from Scratch/task/utilities.py
+!/Neural Network from Scratch/task/twoLayerNeural.py
+!/Neural Network from Scratch/task/oneLayerNeural.py
+!/Neural Network from Scratch/task/Test.png
